@@ -10,3 +10,7 @@ Using PYTHON
   Step 3: Type Streamlit run app.py
   
   Step 4: Enter
+
+Report:
+[Project report.pdf](https://github.com/user-attachments/files/18717923/Project.report.pdf)
+
